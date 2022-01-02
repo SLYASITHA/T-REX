@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/MscSKVN/KING-GOLD-THE-WHATSAPP-BOT.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/KING GOLD PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/TRexWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SLYASITHA"><img title="White Dragon" src="https://img.shields.io/badge/Created by YASITHA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TRexWa"> HIRUWA</a> This project may be free
+Project created by <a href="https://github.com/SLYASITHA"> YASITHA</a> This project may be free
     <br
        | © |
         owner |
@@ -19,24 +19,18 @@ Project created by <a href="https://github.com/TRexWa"> HIRUWA</a> This project 
 ----
 
   <p align="center">
-  <a href="https://github.com/TRexWa">
-    <img src="https://img.shields.io/github/repo-size/TRexWa/T-REX?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/SLYASITHA">
+    <img src="https://img.shields.io/github/repo-size/SLYASITHA/KING GOLD?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/TRexWa/followers"><img title="Followers" src="https://img.shields.io/github/followers/TRexWa?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/TRexWa/T-REX?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TRexWa/T-REX?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TRexWa/T-REX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SLYASITHA/followers"><img title="Followers" src="https://img.shields.io/github/followers/KING GOLD?color=blue&style=flat-square"></a>
+<a href="https://github.com/SLYASITHA/KING GOLD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/SLYASITHA/KING GOLD?color=blue&style=flat-square"></a>
+<a href="https://github.com/SLYASITHA/KING GOLD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SLYASITHA/KING GOLD?color=blue&style=flat-square"></a>
+<a href="https://github.com/SLYASITHA/KING GOLD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SLYASITHA/KING GOLD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML)
-  <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRexWa&repo=T-REX&theme=nightowl)](https://github.com/TRexWa/T-REX)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KING GOLD&repo=KING GOLD&theme=nightowl)](https://github.com/SLYASITHA/KING GOLD)
   </div>
     
 ## Setup
@@ -46,26 +40,19 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/TRexWa/T-REX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.comTrexWa/T-REX)
      </div>
-<br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
 
 
 ### ⚠️ Warning! 
 ```
-කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
-CREATED BY HIRUWA
-```
+CREATED BY YASITHA OFFICAL
+``
 
 ## Helpers
   <div align="center">
     
-![Hiruwa](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg/IMG-20210818-162806.jpg?size=100) <br>
+![YASITHA](https://i.ibb.co/MscSKVN/KING-GOLD-THE-WHATSAPP-BOT.jpg?size=100) <br>
 Base, owner |
   </div>
     
