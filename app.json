@@ -1,14 +1,12 @@
 {
-    "name": "T-REX BOT",
-    "description": "T-REX project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "T-Rex", "t-rex", "Trex", "bot", "api", "ai"],
-    "repository": "https://github.com/TRexWa/T-REX",
-    "website":   "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
-    "success_url": "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
+    "name": "KING GOLD BOT",
+    "description": "KING GOLD project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "logo": "https://i.ibb.co/MscSKVN/KING-GOLD-THE-WHATSAPP-BOT.jpg",
+    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "T-Rex", "kinggold", "kinggold", "bot", "api", "ai"],
+    "repository": "https://github.com/SLYASITHA/T-REX",
     "stack": "container",
     "env": {
-        "TREX_SESSION": {
+        "A_KING GOLD_SESSION": {
             "description": "ඔබ ස්කෑන කල පසු ලැබුනු කේතය ඇතුලත් කරන්න.. , Type here yours T-Rex Session.",
             "required": true
         },
@@ -17,7 +15,7 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. sinhala => si, Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
+            "description": "Bot language. sinhala => si, English => en",
             "required": true,
             "value": "si"
         },
@@ -86,7 +84,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "❰🍁🔱  T Rex BOT NEW  🔱🍁❱ Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "KING GOLD BOT Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
